@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1450579123 source:/home/sreangrathanak/opencv-research/opencv_lesson_1/image_reader.cpp
+	<opencv2/opencv.hpp>
+
